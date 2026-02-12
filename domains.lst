@@ -3,6 +3,9 @@ app.getfluently.app
 getfluently.app
 web.getfluently.app
 fluently-agents-production-xthqzcie.livekit.cloud
+*.livekit.cloud
+muiauknoxkqqjjmdpsgk.supabase.co
+*.supabase.co
 m.stripe.com
 betterstackdata.com
 sentry.io
